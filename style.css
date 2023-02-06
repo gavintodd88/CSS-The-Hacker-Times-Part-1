@@ -36,3 +36,19 @@ ul{
     border-top: 1px solid #777;
 }
 
+h5 {
+    color: rgb(225, 13, 13);
+}
+
+.more-articles {
+    display: flex;
+    width: auto;
+}
+
+.main-photo {
+    width: 100%;
+}
+
+p {
+
+}
