@@ -43,12 +43,23 @@ h5 {
 .more-articles {
     display: flex;
     width: auto;
+    padding-left: 2rem;
 }
 
 .main-photo {
     width: 100%;
 }
 
-p {
+nav {
+    position: sticky;
+    top: 0px;
+    background-color: white;
+}
 
+main p {
+    padding: 0 1rem;
+}
+
+footer {
+    padding-top: 20px;
 }
